@@ -1,3 +1,6 @@
+src/components/sections/ContactForm.jsx
+vite.config.js
+
 # Logs
 logs
 *.log

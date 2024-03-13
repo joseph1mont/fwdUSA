@@ -6,7 +6,7 @@ const LinksWrapper = styled.div`
 
 const Link = styled.a`
   display: inline-block;
-  margin: 5rem 2rem;
+  margin: 1rem 2rem 5rem 2rem;
   font-size: 12px;
   text-align: center;
 `;
