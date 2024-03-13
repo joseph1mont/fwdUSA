@@ -13,7 +13,10 @@ const About = () => {
     <>
       <Section
         id="about"
-        style={{ color: "#ffffff", backgroundColor: "#121212" }}
+        style={{
+          color: "#ffffff",
+          background: "linear-gradient(#180d27, #0c0219)",
+        }}
         title="About Us"
       >
         <Container>

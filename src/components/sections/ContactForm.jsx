@@ -1,5 +1,6 @@
 import { useState } from "react";
 import emailjs from "@emailjs/browser";
+
 import { styled } from "styled-components";
 // import ReCAPTCHA from "react-google-recaptcha";
 
@@ -76,7 +77,14 @@ const ContactForm = () => {
     e.target.reset();
   };
   return (
-    <Section id="contact" title="Contact Us">
+    <Section
+      id="contact"
+      title="Contact Us"
+      style={{
+        color: "#ffffff",
+        background: "linear-gradient(#180d27, #0c0219)",
+      }}
+    >
       <ContactDescription>
         <p>We just need a little bit of data from you to get you started 🚀</p>
       </ContactDescription>

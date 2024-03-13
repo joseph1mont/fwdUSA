@@ -1,3 +1,5 @@
+import Portfolio from "./Portfolio";
+
 import { styled } from "styled-components";
 import Container from "../Container";
 // import heroBG from "../assets/NEUMORPHIC_CIRCLES_BACKGROUND.jpg";
@@ -44,6 +46,7 @@ const Hero = () => {
           <p>Hi, my name is</p>
           <h2>Joseph Thomas</h2>
           <Heading1> Freelance Web Developer in Jacksonville FL.</Heading1>
+
           <Button
             onClick={() => {
               const element = document.getElementById("projects");
@@ -61,6 +64,7 @@ const Hero = () => {
             Get In Touch
           </Button>
         </div>
+        <Portfolio />
       </Container>
     </HeroWrapper>
   );
