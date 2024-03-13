@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "image": "/images/freelance-web-design-usa.jpeg",
+    "url": "https://freelancewebdesignusa.com/",
+    "company": "Freelance Web Design USA",
+    "Period": "2/2011 – PRESENT",
+    "Position": "Full-Stack Developer",
+    "Description": "Exciting update! Our new React website is under construction. Take a sneak peek at the latest developments. Stay tuned for the official launch!",
+    "Tools": ["React", "Vite", "Hooks", "Styled-Components"]
+  },
+  {
+    "id": 2,
+    "image": "/images/vin-searching.gif",
+    "url": "https://processing.yourvinreport.com/processing-t30s.html",
+    "animation": "true",
+    "company": "Empire Pixel",
+    "Period": "6/2019 – 1/2020",
+    "Position": "Front-End Developer",
+    "Description": "Revolutionize Vin record searches with dual form animations, blending efficiency and aesthetics. Seamlessly scan and process records using Vin numbers with visually engaging interfaces. This project elevates user experience through innovative search and scanning animations.",
+    "Tools": ["React", "Javascript", "Jquery"]
+  },
+
+  {
+    "id": 3,
+    "image": "/images/freelance-web-design_clic1.jpeg",
+    "url": "https://clicarmoires.ca/en/",
+    "company": "Clic Armoires",
+    "Period": "2/2020 – PRESENT",
+    "Position": "Full Stack Developer",
+    "Description": "French/English site showcasing innovative technologies for KITCHEN, WARDROBE & LIVING SPACE in Canada. Explore the latest designs and functionalities for a seamless experience.",
+    "Tools": ["Custom Wordpress Theme", "Webpack", "ACF", "En/Fr"]
+  },
+  {
+    "id": 4,
+    "image": "/images/freelance-web-design_pct.jpeg",
+    "url": "https://pointcomforttravel.com/",
+    "company": "Point Comfort Travel",
+    "Period": "2/2023 – 10/2023",
+    "Position": "WordPress Developer (Contract)",
+    "Description": "Efficiently moved a Sitefinity site with intricate Vue.js trip booking forms, Ajax HTTP requests, and Swagger API to WordPress. Ensured data integrity and maintained seamless functionality, showcasing adept platform transition skills for an enhanced user experience.",
+    "Tools": [
+      "Custom Wordpress Theme",
+      "Webpack",
+      "Vue",
+      "Azure",
+      "Swagger API Platform",
+      "Zapier",
+      "ACF"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "/images/freelance-web-design_madisayartakComp.jpeg",
+    "url": "https://arabic.yourvinreport.com/",
+    "company": "Empire Pixel",
+    "Period": "6/2019 – 1/2020",
+    "Position": "Front-End Developer",
+    "Description": "For a 200% boost in Middle East Vin report sales, I crafted an Arabic site with right-to-left text, Arabic fonts, and mobile optimization, including a portal access. Tailored design, local payments, and an English link below ensured broad accessibility and trust.",
+    "Tools": ["HTML", "Java Script", "JQuery"]
+  },
+  {
+    "id": 6,
+    "image": "/images/freelance-web-design_pcu.jpeg",
+    "url": "https://pcu-wordpress.azurewebsites.net/",
+    "company": "Point Comfort Underwriters",
+    "Period": "2/2023 – 10/2023",
+    "Position": "WordPress Developer (Contract)",
+    "Description": "Successfully migrated a Sitefinity site with JavaScript animation, implementing Zapier automation for Instagram posts. Enhanced efficiency, expanded social media reach, and ensured a seamless transition, demonstrating expertise in platform migration and automation for improved online presence.",
+    "Tools": [
+      "Custom Wordpress Theme",
+      "Webpack",
+      "Vue",
+      "Azure",
+      "Zapier",
+      "ACF"
+    ]
+  },
+
+  {
+    "id": 7,
+    "image": "/images/freelance-web-design_edessa.jpeg",
+    "url": "https://edessalaval.ca/en/",
+    "company": "Edessa Laval",
+    "Period": "3/2022 – PRESENT",
+    "Position": "Full-Stack Developer",
+    "Description": "Elevate event planning with a bilingual platform. Discover the grand ballroom for your celebrations in Canada. Explore seamless features for effortless event coordination.",
+    "Tools": ["Custom Wordpress Theme", "ACF", "En/Fr"]
+  },
+  {
+    "id": 8,
+    "image": "/images/freelance-web-design_pcy.jpeg",
+    "url": "https://pcyou.pointcomfort.com/",
+    "company": "Point Comfort You",
+    "Period": "2/2023 – 10/2023",
+    "Position": "WordPress Developer (Contract)",
+    "Description": "A client-centric portal, showcasing booked history trips and private information. Seamlessly integrated with external systems through API and HTTP requests for real-time data exchange.",
+    "Tools": [
+      "Custom Wordpress Theme",
+      "Webpack",
+      "Vue",
+      "Azure",
+      "Swagger API Platform",
+      "Zapier",
+      "ACF"
+    ]
+  }
+]

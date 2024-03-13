@@ -1,0 +1,58 @@
+[
+  { "id": "1", "logo": "/logos/customer10.png", "company": "Edessa" },
+  {
+    "id": "2",
+    "logo": "/logos/customer6.png",
+    "company": "Clic Armoires Logo"
+  },
+  {
+    "id": "3",
+    "logo": "/logos/pcu-logo-color.svg",
+    "comapny": "Point Comfort Underwriters"
+  },
+  {
+    "id": "4",
+    "logo": "/logos/Illuminated-Extractors-Logo-1.png",
+    "comapny": "Illuminated Extractors"
+  },
+  {
+    "id": "5",
+    "logo": "/logos/VB-Thumbnail-B2.png",
+    "comapny": "Vetted Better"
+  },
+  { "id": "6", "logo": "/logos/customer2.png", "company": "Kebecweb" },
+  {
+    "id": "7",
+    "logo": "/logos/customer3.png",
+    "company": "Sutton-Ricardo-Mederos"
+  },
+  { "id": "8", "logo": "/logos/customer4.png", "company": "Fiamma Canada" },
+  { "id": "9", "logo": "/logos/customer5.png", "company": "Empire Pixel" },
+  { "id": "10", "logo": "/logos/customer7.png", "company": "Vasken Habib" },
+  {
+    "id": "11",
+    "logo": "/logos/customer8.png",
+    "company": "Forum Canadian Lebanese"
+  },
+  {
+    "id": "12",
+    "logo": "/logos/customer9.png",
+    "company": "Certified Love Dolls"
+  },
+  { "id": "13", "logo": "/logos/customer13.png", "company": "Learners Corner" },
+  {
+    "id": "14",
+    "logo": "/logos/LOGO_Bollard-Canada.png",
+    "company": "Bollard Canada"
+  },
+  {
+    "id": "15",
+    "logo": "/logos/logo-go-bright-marketing_alt.png",
+    "company": "Go Bright Marketing"
+  },
+  {
+    "id": "16",
+    "logo": "/logos/wow-express-trinity_logo.png",
+    "company": "Wow Express Trinity"
+  }
+]

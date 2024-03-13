@@ -1,0 +1,59 @@
+[
+  {
+    "skill": "Wordpress",
+    "level": 90,
+    "years": "15"
+  },
+  {
+    "skill": "React",
+    "level": 75,
+    "years": "5"
+  },
+
+  {
+    "skill": "ASP.NET",
+    "level": 40,
+    "years": "15"
+  },
+  {
+    "skill": "C#",
+    "level": 70,
+    "years": "15"
+  },
+  {
+    "skill": "JavaScript",
+    "level": 90,
+    "years": "15"
+  },
+
+  {
+    "skill": "HTML",
+    "level": 90,
+    "years": "15"
+  },
+  {
+    "skill": "CSS",
+    "level": 90,
+    "years": "15"
+  },
+  {
+    "skill": "SEO",
+    "level": 90,
+    "years": "5"
+  },
+  {
+    "skill": "Node.js",
+    "level": 50,
+    "years": "5"
+  },
+  {
+    "skill": "Photoshop",
+    "level": 80,
+    "years": "3"
+  },
+  {
+    "skill": "Figma",
+    "level": 50,
+    "years": "3"
+  }
+]
