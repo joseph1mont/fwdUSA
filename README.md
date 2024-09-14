@@ -8,6 +8,8 @@ Welcome to my portfolio website! This project showcases my skills as a web devel
 
 - **ViteJS:** A next-generation frontend tooling that enhances the development experience by offering fast builds and a modern development environment.
 
+- **StyledComponents**
+
 ## Dependencies
 
 ### Production Dependencies
